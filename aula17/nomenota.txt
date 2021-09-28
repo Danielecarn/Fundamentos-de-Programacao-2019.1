@@ -1,0 +1,4 @@
+Ana 10	1
+Joao	3	1
+Maria	10	3
+Carlos  2	2

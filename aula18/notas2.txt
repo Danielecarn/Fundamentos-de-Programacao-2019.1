@@ -1,0 +1,7 @@
+mary	9.0
+peter	7.5
+mark	6.3
+john	8.0
+paul	10.0
+ringo	7.4
+george	6.0
